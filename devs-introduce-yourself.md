@@ -5,6 +5,6 @@
 Creator of this repository, nester of folders, maker of puns. Rapidly learning Ruby / Rails / CSS3 / Sass. HTML since the days of marquee. Queer, trans, beardy. Let's collaborate! 
 </p>
 
-<p>
-Insert your info here.
-</p>
+### Robyn Overstreet. @robynover. http://robynoverstreet.com
+
+Web developer, teacher and creator of web-based art-like things sometimes. I teach at NYU's graduate Interactive Telecommunications Program (ITP), where I was also a student once. Currently working on mobile apps for primatologists collecting data in the field. PHP expert turned Javascript tinkerer. Learning new things about Processing (not the queer kind! Ok, well, that too). Database nerd -- MySQL, PostgreSQL, CouchDB. 
