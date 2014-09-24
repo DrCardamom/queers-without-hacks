@@ -11,4 +11,4 @@ Web developer, teacher and creator of web-based art-like things sometimes. I tea
 
 ### Miriam Nadler. http://pearsk.in
 
-Web developer and designer. I'm currently a freelancer. Into the intersections between literary theory and web design, hackertyper.net, and product design documentaries.  HTML5, CSS/Sass, JS, some PHP.
+Web developer and designer. I'm currently a freelancer. Into the intersections between literary theory and web design, http://hackertyper.net, and product design documentaries.  HTML5, CSS/Sass, JS, some PHP.
