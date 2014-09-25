@@ -12,3 +12,7 @@ Web developer, teacher and creator of web-based art-like things sometimes. I tea
 ### Miriam Nadler. http://pearsk.in
 
 Web developer and designer. I'm currently a freelancer. Into the intersections between literary theory and web design, http://hackertyper.net, and product design documentaries.  HTML5, CSS/Sass, JS, some PHP.
+
+### Tess Yardney. @tess_y
+
+Beginner UX designer, researcher, tech enthusiast. I have a lot of strong feelings about user experience, from software to microwaves. Burying my head in books, articles, and online courses so I can spend less time sitting on babies and more time staring at computers. Lezbian.
