@@ -11,5 +11,13 @@ Queer Open Source Dating.
   <li>Discussing user experience and user interfaces.</li>
   <li>Discussing potential data structures.</li>  
   <li>Drafting a Code of Conduct.</li>
-  <li>Establishing a set of best practices to guide the project.</li>  
+  <li>Establishing a set of coding/workflow best practices to guide the project.</li>
+  <li>Setting up a wiki for non-coder potential users to contribute ideas.</li>
+</ul>
+
+<p>This will be different from other dating sites, for reasons including but not limited to:</p>
+<ul>
+  <li>By default, matching is based on complex, modular gender options. (See folder Matchmaking --> Standard Matchmaking Features --> Genders.md)</li>
+  <li>An all-queer core dev team (in process of forming), with a prominent trans and/or female dev presence.</li>
+  <li>Open-source and UX-driven, accepting multiple ways for users to contribute code and request features.</li>
 </ul>
