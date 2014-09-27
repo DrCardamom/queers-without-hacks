@@ -12,7 +12,7 @@ Queer Open Source Dating.
   <li>Discussing potential data structures.</li>  
   <li>Drafting a Code of Conduct.</li>
   <li>Establishing a set of coding/workflow best practices to guide the project.</li>
-  <li>Setting up a wiki for non-coder potential users to contribute ideas.</li>
+  <li>Setting up a wiki for non-coder potential users to contribute ideas. (Want to help? See folder User Experience --> Get-Nontechie-Input --> Wiki)</li>
 </ul>
 
 <p>This will be different from other dating sites, for reasons including but not limited to:</p>
