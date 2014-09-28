@@ -24,6 +24,8 @@
 	  	<li>No</li>
 	  	<li>Maybe</li>
 	  </ul>
+	
+	<li>Trans</li>
 	 
 	<li>Intersex</li>
 	 
