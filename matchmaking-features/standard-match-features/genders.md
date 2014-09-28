@@ -40,7 +40,7 @@
 	 
 	<li>Butch</li>
 	 
-	<li>Something Else / I Don't Know / I Don't Like Boxes</li>
+	<li>Something Else: [Textbox for User Input]</li>
 </ul>
 
 
@@ -75,6 +75,8 @@
 	<li>Femme</li>
 	 
 	<li>Butch</li>
+	
+	<li>Something Else: [Textbox for User Input]</li>
 	 
-	<li>Something Else / I Don't Know / I Don't Like Boxes</li>
+
 </ul>
