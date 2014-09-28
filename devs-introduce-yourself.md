@@ -1,16 +1,17 @@
 <h1>Developers && Contributors: Introduce Yourself Here!</h1>
+<h3>In alphabetical order by first name.</h3>
 
-### Robyn Overstreet. @robynover. http://robynoverstreet.com
+### Lucian Kahn. @luciankahn. http://luciankahn.com/blog/ 
 
-Web developer, teacher and creator of web-based art-like things sometimes. I teach at NYU's graduate Interactive Telecommunications Program (ITP), where I was also a student once. Currently working on mobile apps for primatologists collecting data in the field. PHP expert turned Javascript tinkerer. Learning new things about Processing (not the queer kind! Ok, well, that too). Database nerd -- MySQL, PostgreSQL, CouchDB. 
+Creator of this repository, nester of folders, maker of puns. Rapidly learning Ruby / Rails / CSS3 / Sass. HTML since the days of marquee. Queer, trans, beardy. Let's collaborate! 
 
 ### Miriam Nadler. http://pearsk.in
 
 Web developer and designer. I'm currently a freelancer. Into the intersections between literary theory and web design, http://hackertyper.net, and product design documentaries.  HTML5, CSS/Sass, JS, some PHP.
 
-### Lucian Kahn. @luciankahn. http://luciankahn.com/blog/ 
+### Robyn Overstreet. @robynover. http://robynoverstreet.com
 
-Creator of this repository, nester of folders, maker of puns. Rapidly learning Ruby / Rails / CSS3 / Sass. HTML since the days of marquee. Queer, trans, beardy. Let's collaborate! 
+Web developer, teacher and creator of web-based art-like things sometimes. I teach at NYU's graduate Interactive Telecommunications Program (ITP), where I was also a student once. Currently working on mobile apps for primatologists collecting data in the field. PHP expert turned Javascript tinkerer. Learning new things about Processing (not the queer kind! Ok, well, that too). Database nerd -- MySQL, PostgreSQL, CouchDB. 
 
 ### Tess Yardney. @tess_y
 
