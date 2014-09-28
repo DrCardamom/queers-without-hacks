@@ -3,7 +3,7 @@
 
 ### Lucian Kahn. @luciankahn. http://luciankahn.com/blog/ 
 
-Creator of this repository, nester of folders, maker of puns. Rapidly learning Ruby / Rails / CSS3 / Sass. HTML since the days of marquee. Queer, trans, beardy. Let's collaborate! 
+Nester of folders, maker of puns. Rapidly learning Ruby / Rails / CSS3 / Sass. HTML since the days of marquee. Queer, trans, beardy. Let's collaborate! 
 
 ### Miriam Nadler. http://pearsk.in
 
