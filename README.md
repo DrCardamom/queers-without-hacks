@@ -12,12 +12,13 @@ Queer Open Source Dating.
   <li>Discussing potential data structures.</li>  
   <li>Drafting a Code of Conduct.</li>
   <li>Establishing a set of coding/workflow best practices to guide the project.</li>
-  <li>Setting up a wiki for non-coder potential users to contribute ideas. (Want to help? See folder User Experience --> Get-Nontechie-Input --> Wiki)</li>
+  <li>Getting feature ideas from non-techies via this blog: http://queerdatingideas.wordpress.com/</li>
 </ul>
 
 <p>This will be different from other dating sites, for reasons including but not limited to:</p>
 <ul>
-  <li>By default, matching is based on complex, modular gender options. (See folder Matchmaking --> Standard Matchmaking Features --> Genders.md)</li>
+  <li>By default, matching is based on complex, modular gender options. (See discussion here: http://queerdatingideas.wordpress.com/2014/09/28/genders-for-matchmaking/)</li>
+  <li>Monogamy/polyamory/etc. are default selectors. (See discussion here: http://queerdatingideas.wordpress.com/2014/09/28/relationship-styles/)</li>
   <li>An all-queer core dev team (in process of forming), with a prominent trans and/or female dev presence.</li>
   <li>Open-source and UX-driven, accepting multiple ways for users to contribute code and request features.</li>
 </ul>
