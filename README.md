@@ -1,6 +1,10 @@
 queers-without-hacks
 ====================
 
+<p>This project never got past the group brainstorm, but I'm keeping the repo here because the discussions in the markdown files might be useful for future developers of similar projects.</p>
+
+====================
+
 Queer Open Source Dating. 
 
 <p>We queers are drawing up plans to build an open source queer dating website. This will be a web based application, with possible mobile app development to follow.  Technologies will include Ruby On Rails, CSS/Sass, Javascript, and others TBD.</p> 
